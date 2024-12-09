@@ -7,8 +7,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define DEFAULT_DB_PATH "/home/rog/Text/2do.sqlite3"
-
 int main(int argc, char * argv[])
 {
 	sqlite3 * db;
